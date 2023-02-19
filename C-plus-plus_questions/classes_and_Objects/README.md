@@ -1,4 +1,5 @@
 # Practice questions on Classes and objects
+the questions can be found here https://www.codesdope.com/practice/cpp-classes-and-objects/
 
 1. Create a class named 'Student' with a string variable 'name' and an integer variable 'roll_no'. Assign the value of roll_no as '2' and that of name as "John" by creating an object of the class Student.
 
